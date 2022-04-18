@@ -1,8 +1,28 @@
-.left-bar{
-    width: 251px;
-    height: 100%;
+*{
+    font-family: 'Roboto', sans-serif;
 }
 
+body{
+    display: flex;
+    flex-direction:column ;
+    justify-content: center;
+    align-items: space-between;
+}
+
+.left-bar{  
+    height: 100%;
+}
+.feed{
+    padding-left: 16px;
+    padding-right: 16px;
+    height: 100%;
+}
+.right-bar{
+    height: 100%;
+}
+.logo-container{
+   
+}
 .logo {
     height: auto;
     width: 28px;
