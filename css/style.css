@@ -249,6 +249,7 @@ main{
 .side-feed{
     width: 50%;
     padding: 0 2%;
+    float: right;
 }
 
 .search{
@@ -317,3 +318,7 @@ main{
     background-color: #1c1e22;
     cursor: pointer;
 }
+
+
+
+
